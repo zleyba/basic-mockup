@@ -1,4 +1,21 @@
 /********************************************
 * Custom CSS Styles for Basic Mockup Exercise
-* Write your CSS below.
+*
+* Some CSS rules have been added for you below.
+* Edit and add CSS rules as you see fit! :D
 ********************************************/
+
+html,
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+.container {
+	margin: 0 auto;
+	width: 1170px;
+}
+
+section {
+	clear: both;
+}
