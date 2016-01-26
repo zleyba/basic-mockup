@@ -3,6 +3,10 @@
 	<head>
 		<meta charset="UTF-8">
 		<style>
+			body {
+				margin: 0;
+			}
+
 			img {
 				display: block;
 				height: auto;

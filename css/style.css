@@ -7,7 +7,6 @@
 
 html,
 body {
-	font-family: sans-serif;
 	margin: 0;
 }
 
@@ -22,6 +21,9 @@ body {
 
 /***
 * Flexbox Sticky Footer
+* Pushes footer to the bottom. Always.
+*
+* Adapted from:
 * http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
 ***/
 
