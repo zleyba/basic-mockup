@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
 	<head>
-		<?include_once ("../bootstrap_loader.html")?>
+		<?include_once ("../php/bootstrap_load.html")?>
 		<link type="text/css" href="../basic-mockup/css/style.css" rel="stylesheet" />
 		<title>Boot Strap Test</title>
 	</head>
