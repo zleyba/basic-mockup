@@ -7,16 +7,92 @@
 
 html,
 body {
+	font-family: "Arial", Sans-Serif;
+	font-size: 14px;
+	color: #000000;
+	background-color: #ffffff;
 	margin: 0;
+}
+
+header {
+	background-color: #66ccff;
+	padding-top:7px;
+	padding-bottom: 7px;
+	margin: 0 auto;
 }
 
 .container {
 	margin: 0 auto;
 	width: 1170px;
+
+}
+
+h1 {
+	font-size: 2.5em;
+	margin: 0 auto;
+
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 1em;
+
+}
+
+.content {
+	margin-bottom: 10px;
+}
+
+img {
+	border: 5px #cccccc solid;
+
+}
+
+footer {
+	background-color: #000000;
+	font-size: 1em;
+	color: #cccccc;
+	font-style: italic;
+	padding-top: 7px;
+
+}
+
+.content img {
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.instructions {
+	border: 5px #cccccc solid;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding: 15px;
+
 }
 
 .clear {
 	clear: both;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	background-color: #66ccff;
+	padding: 10px;
+
+}
+
+.pull-right {
+	float: right;
+
+}
+
+.pull-left {
+	float: left;
 }
 
 /***
